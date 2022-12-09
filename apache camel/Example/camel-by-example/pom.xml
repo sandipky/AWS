@@ -43,7 +43,7 @@
     <h2.version>1.3.162</h2.version>
     <junit.version>4.7</junit.version>
     <slf4j.version>1.5.11</slf4j.version>
-    <spring.version>3.0.7.RELEASE</spring.version>
+    <spring.version>6.0.0</spring.version>
     
     <!-- The Cargo container type -->
     <cargo.container.id>tomcat6x</cargo.container.id>
